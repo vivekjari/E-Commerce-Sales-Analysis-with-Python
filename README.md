@@ -6,11 +6,11 @@ By using python and its libraries, dataset is being analysed to look for any tre
 
 As an analyst we want to explore the data and answer the following questions using the past data:
 
--What is the revenue generated vs price of the product?
--Which product type has the highest sale?  
+- What is the revenue generated vs price of the product?
+- Which product type has the highest sale?  
 - what is total revenue generated from shipping carrier?
 - what is the shipping cast according to carrier?
--What is the defect rate per product type?
+- What is the defect rate per product type?
 
 ## Data
 
